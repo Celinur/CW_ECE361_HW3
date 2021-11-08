@@ -1,0 +1,14 @@
+Celina Wong ECE361
+HW3 Problem 1 part c
+Transcript log of RPN.c
+Compiles but does not execute as wanted.
+
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW3/Prob1 (main)
+$ gcc RPN.c -o RPN
+
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW3/Prob1 (main)
+$ ./RPN
+1 2 3 * + =
+Program for RPN expressions using stack. Celina Wong ECE361.
+Enter an RPN expression:
+Invalid operator/operand.

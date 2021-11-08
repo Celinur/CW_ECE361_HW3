@@ -1,0 +1,17 @@
+Celina Wong ECE361
+HW3 Problem 3 part b
+Console transcript showing makefile being used to compile Problem 2.
+
+Downloaded a file "make-4.2.1-without-guile-w32-bin.zip" to be able to
+use "make" but still didn't work.
+
+
+Transcript results:
+
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW3/Prob3 (main)
+$ make
+bash: make: command not found
+
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW3/Prob3 (main)
+$ mingw32-make
+mingw32-make: *** No rule to make target 'queue_test.c', needed by 'queue_test'.  Stop.

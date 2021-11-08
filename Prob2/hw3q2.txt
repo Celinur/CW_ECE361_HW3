@@ -1,0 +1,45 @@
+Celina Wong ECE361
+HW3 Problem 2 part b
+Console transcript for queue_test.c
+
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW3/Prob2 (main)
+$ ./queue_test
+Test program for Queue ADT by Celina Wong (wcelina@pdx.edu)
+Current working directory: C:\Users\15034\Documents\ECE361HW3\Prob2
+
+
+======STARTING QUEUE TESTS======
+
+
+Inserted: c
+Queue elements:
+99 ----List Queue Contents Test Failure
+----Queue Full Test Failure
+----Dequeue Test Successful
+Empty the queue
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue should be empty - nothing displayed
+Empty queue.
+----Queue Empty Test Successful
+---Testing partial fills---
+   Adding p and Z to queue
+
+Inserted: p
+Queue elements:
+112    Removing p
+Empty queue.
+   Adding ! to queue
+
+Inserted: !
+Queue elements:
+33 ----Queue Test Complete
